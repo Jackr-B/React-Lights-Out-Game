@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/React-Lights-Out-Game/static/js/main.4922ae75.chunk.js"
   },
   {
-    "revision": "498adbd33ac33c4b9d54",
-    "url": "/React-Lights-Out-Game/static/js/1.498adbd3.chunk.js"
+    "revision": "0873f4c32e6b21ac8b5f",
+    "url": "/React-Lights-Out-Game/static/js/1.0873f4c3.chunk.js"
   },
   {
     "revision": "cafa4f3494cc60bca7f0",
     "url": "/React-Lights-Out-Game/static/js/runtime~main.cafa4f34.js"
   },
   {
-    "revision": "8a2cef6d233a70ca70cefe19de883f53",
+    "revision": "47ded68da275d6bf4128ea6d7068b526",
     "url": "/React-Lights-Out-Game/index.html"
   }
 ];
